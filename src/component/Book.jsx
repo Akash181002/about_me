@@ -50,7 +50,7 @@ export default function Book() {
           {/* Cover Page */}
           <div className="bg-[#f0f4f8] w-full h-full flex flex-col items-center justify-center text-[#002970] font-sans rounded-xl border-2 shadow-xl p-4">
             <Image
-              src="/Akash_img.jpg"
+              src="/Akash_img.jpeg"
               alt="Akash Upadhyay"
               width={100}
               height={100}
