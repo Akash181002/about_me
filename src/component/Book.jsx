@@ -18,7 +18,7 @@ export default function Book() {
     },
     {
       title: "Projects",
-      content: `Payment Transfer Web Application: \n\nFull-stack clone built with Next.js, TypeScript, NextAuth.js, Prisma, and TailwindCSS. Features secure auth, webhook simulation for real-time fund transfer, PostgreSQL database, Turborepo monorepo setup, and CI/CD deployment to GCP.  
+      content: `Payment Transfer Web Application: \n\nFull-stack clone built with Next.js, TypeScript, NextAuth.js, Prisma, and TailwindCSS. Features secure auth, webhook simulation for real-time fund transfer, MySQL database, and Turborepo monorepo setup.  
 
 
 \n\nDecentralized Token Application:\n\n React.js + JavaScript + Node.js, decentralized app for creating, transferring, and tracking tokens on DFINITY’s Internet Computer. Built with TailwindCSS for responsive UI and Motoko canisters for secure, scalable backend logic.  

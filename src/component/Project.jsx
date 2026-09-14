@@ -6,8 +6,8 @@ const projects = [
     title: "Payment Transfer Web App",
     icon: "/GitHubLogo.png",
     description: `Developed a full-stack Paytm clone simulating real-world payment workflows using modern web technologies. Implemented secure authentication with NextAuth.js supporting multiple providers, 
-    and designed a mock banking webhook system to simulate real-time fund transfers and asynchronous payment updates. The backend was built using Prisma ORM and PostgreSQL for robust data modeling and transaction history.
-     The UI was styled with TailwindCSS to ensure a responsive, clean interface. A monorepo architecture with Turborepo was adopted to enhance modularity and developer experience. The app was deployed on a GCP e2 instance, complete CI/CD pipeline for automated build, test, and deployment.`,
+    and designed a mock banking webhook system to simulate real-time fund transfers and asynchronous payment updates. The backend was built using Prisma ORM and MySQL for robust data modeling and transaction history.
+     The UI was styled with TailwindCSS to ensure a responsive, clean interface. A monorepo architecture with Turborepo was adopted to enhance modularity and developer experience.`,
       // live: 'https://34.132.185.125/',
     
   },
