@@ -52,16 +52,18 @@ export default function ProjectPage() {
             </p>
             {/* Links */}
             <div className="mt-2 flex flex-wrap gap-4 text-sm">
-              {project.live && (
-                <a
-                  href={project.live}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-blue-600 underline hover:text-blue-800"
-                >
-                  Live Demo
-                </a>
-              )}
+              {/* 
+{project.live && (
+  <a
+    href={project.live}
+    target="_blank"
+    rel="noopener noreferrer"
+    className="text-blue-600 underline hover:text-blue-800"
+  >
+    Live Demo
+  </a>
+)}
+*/}
               {project.code && (
                 <a
                   href={project.code}
